@@ -17,7 +17,7 @@ interface OauthUserRestrictionPluginInterface
 {
     /**
      * Specification:
-     * - Checks if the user is restricted.
+     * - Checks if the Oauth user is restricted.
      *
      * @api
      *
