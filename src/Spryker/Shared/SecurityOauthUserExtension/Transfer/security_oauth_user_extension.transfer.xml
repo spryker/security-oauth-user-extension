@@ -13,4 +13,10 @@
     <transfer name="OauthUserRestrictionResponse">
     </transfer>
 
+    <transfer name="ResourceOwner">
+    </transfer>
+
+    <transfer name="User">
+    </transfer>
+
 </transfers>
